@@ -1,0 +1,7 @@
+{
+  "addresses": [
+    "https://coronavirus.jhu.edu/map.html",
+    "https://coronavirus.jhu.edu/us-map"
+  ],
+  "emulated_form_factor": "desktop"
+}

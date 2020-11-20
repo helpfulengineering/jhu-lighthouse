@@ -1,0 +1,46 @@
+name: Update pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_run:
+    workflows:
+      - Lighthouse report
+    types: 
+      - completed
+      
+jobs:
+  update-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the pages branch
+        uses: actions/checkout@main
+
+      - name: Gather reports and static pages
+        run: |
+          git fetch --all
+          git checkout origin/pages
+          git rm -r "*" || true
+          git checkout origin/reports -- "./reports" "./reports.json"
+          git checkout origin/main -- "./pages/*"
+          mv ./pages/* . && rmdir ./pages
+          
+      - name: Commit the results
+        uses: EndBug/add-and-commit@v4
+        with:
+          add: "*"
+          ref: pages
+          message: Update pages
+          author_name: "0x2b3bfa0"
+          author_email: "0x2b3bfa0+git@googlemail.com"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Rebuild the served content
+        run: |
+          curl --fail --request POST \
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+            --header "Authorization: Bearer $USER_TOKEN"
+        env:
+          USER_TOKEN: ${{ secrets.USER_TOKEN }}

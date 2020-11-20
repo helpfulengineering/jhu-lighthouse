@@ -1,0 +1,60 @@
+name: Lighthouse report
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+      
+jobs:
+  lighthouse-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@main
+
+      - name: Checkout the reports branch
+        run: |
+          git fetch --all
+          git checkout origin/reports
+          
+      - name: Retrieve the configuration
+        id: configuration
+        run: |
+          git checkout origin/main -- "./configuration.json"
+          echo ::set-output name=addresses::"$(jq -r '.addresses | join(",")' < ./configuration.json)"
+          echo ::set-output name=emulated_form_factor::"$(jq -r '.emulated_form_factor' < ./configuration.json)"
+          rm ./configuration.json
+          
+      - name: Create temporary directories
+        run: |
+          test -f ./reports.json || touch ./reports.json
+          mkdir -p /tmp/artifacts ./reports
+
+      - name: Generate the report
+        uses: foo-software/lighthouse-check-action@master
+        with:
+          author: ${{ github.actor }}
+          outputDirectory: /tmp/artifacts
+          urls: "${{ steps.configuration.outputs.addresses }}"
+          emulatedFormFactor: "${{ steps.configuration.outputs.emulated_form_factor }}"
+
+      - name: Process the report results
+        run: |
+          jq -s '.[0] + .[1]' reports.json /tmp/artifacts/results.json > /tmp/artifacts/mix.json
+          mv /tmp/artifacts/mix.json reports.json
+
+          for report in /tmp/artifacts/*.html; do
+            base="$(basename "$report")"; name="${base%.html}"; time="${name/lighthouse-report-}"
+            perl -ne '/<script>window.__LIGHTHOUSE_JSON__ = (.*);<\/script>/ and print $1' "$report" |
+              gzip > "./reports/$time.json.gz"
+          done
+
+      - name: Commit the report results
+        uses: EndBug/add-and-commit@v4
+        with:
+          add: "reports*"
+          ref: reports
+          message: Add reports
+          author_name: "0x2b3bfa0"
+          author_email: "0x2b3bfa0+git@googlemail.com"
+        env:
+          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
