@@ -3,7 +3,8 @@ name: Lighthouse report
 on:
   schedule:
     - cron: "*/10 * * * *"
-      
+  workflow_dispatch:
+
 jobs:
   lighthouse-check:
     runs-on: ubuntu-latest
@@ -47,11 +48,17 @@ jobs:
             perl -ne '/<script>window.__LIGHTHOUSE_JSON__ = (.*);<\/script>/ and print $1' "$report" |
               gzip > "./reports/$time.json.gz"
           done
+          
+          cd reports
+          find *.json.gz | while read report; do
+            time="${report%.json.gz}"
+            cat "$report" | gunzip | jq "{\"$time\": {\"address\": .requestedUrl, \"seconds\": (.audits.interactive.numericValue / 1000) | floor}}"
+          done | jq -s add > ../data.json
 
       - name: Commit the report results
         uses: EndBug/add-and-commit@v4
         with:
-          add: "reports*"
+          add: "*.json"
           ref: reports
           message: Add reports
           author_name: "0x2b3bfa0"

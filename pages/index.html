@@ -3,7 +3,7 @@
     <head>
     	<meta charset="UTF-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    	<title>JHU Dashboard Performance</title>
+    	<title>JHU Dashboard Load Times</title>
         <style>
             @import url(https://fonts.googleapis.com/css?family=Roboto);
 
@@ -29,30 +29,27 @@
     <script>
         // Fetch the report data
         let request = new XMLHttpRequest();
-        request.open("GET", "./reports.json", false);
+        request.open("GET", "./data.json", false);
         request.send(null);
         let data = JSON.parse(request.responseText);
 
         // Reshape the report data
         let reports = {}
         for (let report in data) {
-            let [path, file, time] = data[report]["localReport"].match(
-                /^.+\/(lighthouse-report-(\d+).html)$/
-            );
-            if (!reports.hasOwnProperty(data[report]["url"])) {
-                reports[data[report]["url"]] = [];
+            if (!reports.hasOwnProperty(data[report]["address"])) {
+                reports[data[report]["address"]] = [];
             }
-            reports[data[report]["url"]].push({
-                "performance": data[report]["scores"]["performance"],
-                "time": Number(time),
-                "file": file
+            reports[data[report]["address"]].push({
+                "seconds": data[report]["seconds"],
+                "time": Number(report)
             });
         }
 
         var options = {
+            colors: ["#fc413a", "#fea219"],
             series: Object.keys(reports).map(site => Object({
                 "name": site, "data": reports[site].map(report => [
-                    report.time, report.performance
+                    report.time, report.seconds
                 ])
             })),
             chart: {
@@ -71,7 +68,6 @@
                     markerClick: function(event, chartContext, {seriesIndex, dataPointIndex, config}) {
                         let series = chartContext.w.config.series[seriesIndex];
                         let time = series.data[dataPointIndex][0];
-                        let file = "lighthouse-report-" + time + ".html";
                         document.location.href = "./report.html?time=" + time;
                     }
                 }
@@ -88,7 +84,7 @@
             },
             yaxis: {
                 title: {
-                    text: 'Performance'
+                    text: 'Load time, in seconds'
                 },
             },
             xaxis: {

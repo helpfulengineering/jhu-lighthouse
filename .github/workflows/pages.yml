@@ -22,7 +22,7 @@ jobs:
           git fetch --all
           git checkout origin/pages
           git rm -r "*" || true
-          git checkout origin/reports -- "./reports" "./reports.json"
+          git checkout origin/reports -- "./reports" "./reports.json" "./data.json"
           git checkout origin/main -- "./pages/*"
           mv ./pages/* . && rmdir ./pages
           
