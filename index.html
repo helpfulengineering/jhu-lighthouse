@@ -46,6 +46,7 @@
         }
 
         var options = {
+            colors: ["#fc413a", "#fea219"],
             series: Object.keys(reports).map(site => Object({
                 "name": site, "data": reports[site].map(report => [
                     report.time, report.seconds
