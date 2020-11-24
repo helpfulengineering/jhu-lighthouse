@@ -1151,12 +1151,12 @@
     "address": "https://coronavirus.jhu.edu/us-map",
     "seconds": 25
   },
-  "1606220007570": {
+  "1606221311891": {
     "address": "https://coronavirus.jhu.edu/map.html",
-    "seconds": 32
-  },
-  "1606220063064": {
-    "address": "https://coronavirus.jhu.edu/us-map",
     "seconds": 27
+  },
+  "1606221359873": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
   }
 }
