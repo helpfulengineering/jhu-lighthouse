@@ -50,8 +50,8 @@ jobs:
           done
           
           find /tmp/artifacts/*.json.gz | while read report; do
-            report="$(basename "$report")"
-            time="${report%.json.gz}"
+            base="$(basename "$report")"
+            time="${base%.json.gz}"
             cat "$report" | gunzip | jq "{\"$time\": {\"address\": .requestedUrl, \"seconds\": (.audits.interactive.numericValue / 1000) | floor}}"
           done | jq -s add /tmp/artifacts/data.json
           
