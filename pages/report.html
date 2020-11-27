@@ -7099,7 +7099,7 @@ if (typeof module !== 'undefined' && module.exports) {
       request.open("GET", "./reports/" + time + ".json.gz", true);
       request.responseType = "arraybuffer";
 	    
-      request.addEventListener("load", function() {
+      request.onload = function() {
         const data = pako.inflate(new Uint8Array(this.response), {to: "string"});
         window.__LIGHTHOUSE_JSON__ = JSON.parse(data);
 
@@ -7111,14 +7111,16 @@ if (typeof module !== 'undefined' && module.exports) {
 
         const features = new ReportUIFeatures(dom);
         features.initFeatures(window.__LIGHTHOUSE_JSON__);
-      }, false);
-	    
-      request.addEventListener("error", function() {
-        const tag = document.createElement('h2');
-        tag.appendChild(document.createTextNode("Error: there isn't a full report for this measurement"));
-        document.body.appendChild(tag);
-      }, false);
+      }
 
+      request.onloadend = function() {
+        if(request.status == 404) {
+          const tag = document.createElement('h2');
+          tag.appendChild(document.createTextNode("Error: there isn't a full report for this measurement"));
+          document.body.appendChild(tag);
+	}
+      }
+	    
       request.send();
     }
     window.addEventListener('DOMContentLoaded', loadData);
