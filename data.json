@@ -1151,22 +1151,6 @@
     "address": "https://coronavirus.jhu.edu/us-map",
     "seconds": 25
   },
-  "1606506085349": {
-    "address": "https://coronavirus.jhu.edu/map.html",
-    "seconds": 31
-  },
-  "1606506135971": {
-    "address": "https://coronavirus.jhu.edu/us-map",
-    "seconds": 24
-  },
-  "1606506213279": {
-    "address": "https://coronavirus.jhu.edu/map.html",
-    "seconds": 28
-  },
-  "1606506263119": {
-    "address": "https://coronavirus.jhu.edu/us-map",
-    "seconds": 23
-  },
   "1606177607422": {
     "address": "https://coronavirus.jhu.edu/map.html",
     "seconds": 35
@@ -4402,5 +4386,21 @@
   "1606505786048": {
     "address": "https://coronavirus.jhu.edu/us-map",
     "seconds": 25
+  },
+  "1606506085349": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606506135971": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606506213279": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606506263119": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
   }
 }
