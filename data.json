@@ -1159,36 +1159,3248 @@
     "address": "https://coronavirus.jhu.edu/us-map",
     "seconds": 24
   },
-  "1606506273963": {
+  "1606506213279": {
     "address": "https://coronavirus.jhu.edu/map.html",
-    "seconds": 33
+    "seconds": 28
   },
-  "1606506330618": {
-    "address": "https://coronavirus.jhu.edu/us-map",
-    "seconds": 27
-  },
-  "1606506816228": {
-    "address": "https://coronavirus.jhu.edu/map.html",
-    "seconds": 30
-  },
-  "1606506864734": {
+  "1606506263119": {
     "address": "https://coronavirus.jhu.edu/us-map",
     "seconds": 23
   },
-  "1606507882621": {
+  "1606177607422": {
     "address": "https://coronavirus.jhu.edu/map.html",
-    "seconds": 33
+    "seconds": 35
   },
-  "1606507939200": {
+  "1606177663736": {
     "address": "https://coronavirus.jhu.edu/us-map",
     "seconds": 27
   },
-  "1606508735049": {
+  "1606179996709": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606180049080": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606181539931": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606181589667": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606182426853": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606182487549": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606182837741": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606182888995": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606183950478": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606184001377": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606184957523": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606185013184": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606185492687": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606185551689": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606185909113": {
     "address": "https://coronavirus.jhu.edu/map.html",
     "seconds": 32
   },
-  "1606508789060": {
+  "1606185962990": {
     "address": "https://coronavirus.jhu.edu/us-map",
     "seconds": 26
+  },
+  "1606186422978": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606186475967": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606187441312": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606187501720": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606188284825": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606188338523": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606188861911": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606188917286": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606189416742": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606189471036": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606190026529": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606190081706": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606191166398": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606191223656": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606192253329": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606192309599": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606192780897": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606192833030": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606193201193": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606193255029": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606193626146": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606193677001": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606194632471": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606194687877": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606195352732": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606195400755": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606197242706": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606197296157": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606198342511": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606198397757": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606199625375": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 39
+  },
+  "1606199688102": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606200384763": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606200439196": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606200811731": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606200864993": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606201825321": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606201878248": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606202581582": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606202633438": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606203270677": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606203323640": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606203815382": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606203866307": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606204456594": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 40
+  },
+  "1606204517395": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606205537048": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606205584463": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606206672241": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606206722885": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606207187235": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606207239931": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606207624288": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606207681787": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606208049758": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606208103044": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606209065561": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 39
+  },
+  "1606209130873": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 33
+  },
+  "1606209927134": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606209984564": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606210475863": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606210530784": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606211009699": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606211058186": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606211614884": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606211664470": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606212733757": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606212787146": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606213789883": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606213842398": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606214302913": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606214350182": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606214731134": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606214784375": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606215644896": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606215702027": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606216220216": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606216276433": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606216981461": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606217032410": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606217668004": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606217722586": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606218264548": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606218318825": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606218835805": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606218893224": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606220007570": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606220063064": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606221311891": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606221359873": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606222046634": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606222099155": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606222499754": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606222558889": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606223388197": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606223436049": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606224117792": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606224177673": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606224868750": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606224922985": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606225428978": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606225488242": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606226023063": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606226078609": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606227091506": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606227139076": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606228127601": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606228184925": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606228603086": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 5
+  },
+  "1606228658740": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606229024980": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606229072343": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606229623477": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606229680652": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606230659421": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 40
+  },
+  "1606230711865": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606231705766": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606231761118": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606232448507": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606232503278": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606232935691": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606232988223": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606233363036": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606233416168": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606234652241": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606234708492": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606236522969": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606236574567": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606237163481": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 26
+  },
+  "1606237206738": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 20
+  },
+  "1606238416134": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606238469827": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606238937068": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606238993960": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606239420549": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606239473057": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606239849575": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606239908712": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606240423711": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606240480848": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606242475390": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606242533618": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606243114897": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606243170771": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606243584655": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606243639391": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606244004726": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606244051742": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606244973768": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606245030295": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606245597133": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606245659988": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 32
+  },
+  "1606246014840": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606246070332": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606246500099": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606246560036": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606247020848": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606247075093": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606247625802": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606247680996": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606248626942": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606248681357": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606249415206": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606249464320": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606250071963": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606250137178": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 32
+  },
+  "1606250627987": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 39
+  },
+  "1606250691755": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 32
+  },
+  "1606251224191": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606251280396": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606252173854": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606252225962": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606252845449": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606252906704": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606253282864": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606253338406": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606253847851": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606253904187": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606254270682": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606254329209": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606254834604": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606254885385": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606255946104": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606256005490": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606256956544": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606257010476": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606257435395": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606257482527": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606257867921": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606257921649": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606258417431": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606258471891": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606259411307": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606259461034": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606260833253": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606260879867": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606261417566": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606261468333": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606262032655": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606262087701": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606264012511": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606264060864": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606266481574": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606266540613": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606268023616": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 26
+  },
+  "1606268067781": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 20
+  },
+  "1606268853877": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606268908814": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606269277408": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606269333354": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606270361179": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606270413903": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606271375527": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606271429694": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606271887656": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606271932539": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 21
+  },
+  "1606272339024": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606272397414": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606272818140": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 26
+  },
+  "1606272864012": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 21
+  },
+  "1606273847409": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606273907782": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606274718641": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606274774207": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606275274148": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606275320678": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606275814438": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606275867582": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606276413012": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606276467930": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606277554312": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606277598443": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606278685889": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606278743306": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606279236268": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606279284456": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606279662019": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606279711604": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606280094294": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606280146800": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606282451072": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606282504367": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606283032560": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606283084885": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606283624077": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606283673870": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606284751622": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606284798219": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606286084603": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606286139382": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606286808540": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606286861184": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606287245441": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606287305607": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606288283581": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606288342263": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606289089269": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606289147358": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606289654285": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606289709550": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606290239954": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606290296975": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606290834138": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606290887654": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606291931252": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606291984497": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606293053944": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606293104914": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606293573131": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606293628129": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606293993696": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 5
+  },
+  "1606294046574": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606294442089": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 40
+  },
+  "1606294503784": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 31
+  },
+  "1606295475246": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606295530596": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606296337090": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606296401173": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 31
+  },
+  "1606296881116": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606296929956": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606297429457": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606297489560": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606298050516": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606298102763": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606299117361": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606299169232": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606300136813": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606300190788": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606300640921": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606300693961": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606301061369": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606301114546": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606301613684": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606301667102": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606302609942": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606302666573": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606303311387": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606303361327": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606304063954": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606304116318": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606304614831": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606304669984": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606305219541": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606305273018": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606306410237": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606306459590": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606307734760": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606307783564": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606308460616": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606308514236": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606308892703": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606308954619": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606309817117": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606309872045": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606310534909": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606310587696": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606311275467": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606311331933": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606311809320": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606311863303": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606313532203": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606313584154": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606314538810": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606314591690": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606315006279": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606315060339": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606315451262": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606315500873": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 5
+  },
+  "1606316011435": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606316057690": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606317044976": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606317099150": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606318000668": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606318054866": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606318609739": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606318665708": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606319055094": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 26
+  },
+  "1606319103170": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606319619567": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606319676913": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606321035223": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606321099056": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 31
+  },
+  "1606322972007": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606323026748": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606323658379": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 25
+  },
+  "1606323672591": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 4
+  },
+  "1606324750925": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606324807057": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606325203468": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606325257475": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606325693966": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606325749676": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606326226377": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606326286995": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606326824678": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606326883726": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606327864694": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606327920993": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606328858484": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606328908358": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606329502928": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606329557000": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606329978881": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606330034006": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606330405368": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606330451447": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 21
+  },
+  "1606331342884": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606331396466": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606331976477": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606332032205": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606332412931": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606332464503": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606332913694": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606332967349": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606333419997": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606333473397": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606334021712": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606334076129": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606335027338": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606335084649": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606335805820": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606335852650": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606336454958": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606336511501": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606337004171": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606337053777": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606337631145": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606337686078": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606338586735": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606338647156": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606339314188": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 39
+  },
+  "1606339373973": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606340062806": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606340111583": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606341206913": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606341260747": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606342335998": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606342386169": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606343357126": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606343410991": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606343843543": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606343894822": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606344274618": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606344321358": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606344822376": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606344880916": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606345816051": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 25
+  },
+  "1606345860554": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 21
+  },
+  "1606346545184": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606346596220": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606347248791": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606347303549": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606347814240": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606347866549": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606348424654": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606348480337": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606350412636": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606350471453": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606352864295": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606352915473": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606354443649": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606354496213": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606355290844": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606355348292": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606355721661": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606355779295": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606356774547": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606356833034": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606357799993": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606357855926": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606358324216": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606358375075": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606358747303": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606358798881": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606359215366": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606359270094": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606360243776": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606360293539": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606361149563": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606361200412": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606361739577": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606361794843": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606362210836": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606362261937": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606362814071": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 26
+  },
+  "1606362857326": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 20
+  },
+  "1606363980606": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606364036064": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606365095269": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606365146119": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606366433595": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606366480997": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606367433124": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606367490177": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606368170027": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606368217085": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606368831788": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606368877302": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606369407926": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606369457712": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606370026776": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606370079010": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606371168499": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606371223783": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606372480836": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606372537209": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606373218451": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606373273810": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606373645869": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606373700781": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606374650559": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606374708870": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606375429626": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606375485471": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606376058717": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606376115972": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606376634952": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606376697662": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 31
+  },
+  "1606377237057": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606377297455": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606378346791": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606378401106": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606379486491": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606379538940": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606380012633": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606380063559": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606380449530": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606380503828": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606380882123": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606380933403": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606381882912": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606381943373": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606382742515": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606382800385": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606383845390": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606383895493": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606384418737": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606384473045": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606385519003": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606385578878": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606386579436": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606386634097": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606387121909": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606387180042": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606387541327": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606387586805": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606388038512": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606388101062": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 31
+  },
+  "1606389032449": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606389090230": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606389759624": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606389812377": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606390470882": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 39
+  },
+  "1606390531220": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606391028691": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606391078232": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606391622757": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606391668922": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606392814248": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606392866019": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606394174976": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606394227707": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606394879961": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606394931140": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606395331572": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606395385000": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606396202057": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606396257237": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606397648526": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 25
+  },
+  "1606397693974": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 21
+  },
+  "1606398222580": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606398274367": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606398812449": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606398862717": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606399909947": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606399957136": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606400992140": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606401044839": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606401411849": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606401464699": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606401834273": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 26
+  },
+  "1606401877975": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 20
+  },
+  "1606402429562": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606402484700": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606403462796": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606403521862": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606404414777": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606404473019": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606404973246": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606405029880": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606405511245": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 39
+  },
+  "1606405576967": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 31
+  },
+  "1606406026076": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606406080194": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606407399308": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606407450013": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606409939294": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606409989868": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606411141623": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 40
+  },
+  "1606411204857": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606411639515": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606411696075": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606412127358": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606412180190": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606412615351": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606412668135": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606413219001": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606413268607": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606414266015": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606414322228": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606415302105": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606415358860": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606415924300": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606415983265": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606416384991": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606416438727": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606416817010": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606416867986": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606417740445": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606417791695": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606418384310": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606418448085": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 32
+  },
+  "1606418815443": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606418872685": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606419304566": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606419356160": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606419807924": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 17
+  },
+  "1606419856725": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606420422496": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606420474076": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606421473950": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606421521713": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606422288798": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606422342380": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606422851187": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 25
+  },
+  "1606422895176": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 20
+  },
+  "1606423429996": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606423484320": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606424036546": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606424089019": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606424992083": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606425050710": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606425718488": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606425770514": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606426470641": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606426517365": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606427015155": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 19
+  },
+  "1606427068718": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606427620757": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606427673615": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606428756813": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606428812255": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606430701010": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606430748749": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606431238786": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606431295192": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606432260583": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606432319534": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606433648316": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606433695663": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606434209679": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606434255394": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 21
+  },
+  "1606434833011": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606434885746": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606436890344": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606436938928": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606439508981": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606439560989": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606442087047": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606443167227": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606443220477": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606444201998": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606444255990": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606444750363": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 39
+  },
+  "1606444809881": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606445165245": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606445214304": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606445630985": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606445683972": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606448169871": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606448228385": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606448637604": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606448691818": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606449217909": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606449267346": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606450429218": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606450490539": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606451627415": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606451687056": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606452336122": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606452396549": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606452814914": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606452861779": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606453838598": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606453889609": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606454624142": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606454682396": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606455250430": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606455304268": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606455807521": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606455857496": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606456426065": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606456481346": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606457570665": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606457626520": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606458900644": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606458955822": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606459713369": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606459764112": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606460080946": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606460136100": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606461064597": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606461109412": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606461882740": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606461934602": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606462454984": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606462506526": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606463018136": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606463066648": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606463631673": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606463684613": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606464824147": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 38
+  },
+  "1606464885338": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 31
+  },
+  "1606466022506": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606466079764": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606466660888": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606466712039": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606467229192": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606467286619": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606468299954": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606468360624": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606469224456": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606469282689": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606469793713": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606469851222": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606470279555": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606470332787": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606470819896": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606470874000": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606471938046": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606471990987": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606472955087": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606473006249": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606473484363": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606473530954": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606473916934": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 30
+  },
+  "1606473968418": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606474437698": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 40
+  },
+  "1606474500800": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606475419477": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606475467533": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606476173507": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606476227408": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606476860353": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606476907200": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606477425400": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606477482928": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606478028223": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606478078568": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 24
+  },
+  "1606479270353": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606479324761": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606480650955": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606480710416": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606481369039": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606481424534": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606481794280": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606481847471": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606482635042": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606482691898": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606483388882": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606483447407": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 29
+  },
+  "1606484073168": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606484130229": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606484628762": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606484684923": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606485216367": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606485268160": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606486316237": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606486375152": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606487314544": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606487370552": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606487793847": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606487840637": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606488232343": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606488288645": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606488819659": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606488876075": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606489845188": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606489894185": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606490809431": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606490857416": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606491397401": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606491454727": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606491888783": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606491942399": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606492435175": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606492488568": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606493808308": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606493861567": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606495582362": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 36
+  },
+  "1606495637618": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606496299093": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606496356548": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 28
+  },
+  "1606497406020": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 27
+  },
+  "1606497449728": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606497983431": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 26
+  },
+  "1606498029386": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 21
+  },
+  "1606498440105": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606498489911": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 23
+  },
+  "1606499026092": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606499079772": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606499635141": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 31
+  },
+  "1606499686703": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
+  },
+  "1606500660442": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606500715897": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606501667264": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 35
+  },
+  "1606501722582": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606502303049": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606502357886": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606502785640": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 28
+  },
+  "1606502832837": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 22
+  },
+  "1606503227218": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 34
+  },
+  "1606503285239": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 27
+  },
+  "1606504154590": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 32
+  },
+  "1606504208841": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606504809234": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 37
+  },
+  "1606504869722": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 30
+  },
+  "1606505247571": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 33
+  },
+  "1606505302768": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 26
+  },
+  "1606505733419": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 29
+  },
+  "1606505786048": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 25
   }
 }
