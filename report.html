@@ -7111,6 +7111,11 @@ if (typeof module !== 'undefined' && module.exports) {
         const features = new ReportUIFeatures(dom);
         features.initFeatures(window.__LIGHTHOUSE_JSON__);
       }
+      request.onerror = function() {
+        const tag = document.createElement('h2');
+        tag.appendChild(document.createTextNode("Error: there isn't a full report for this measurement"));
+        document.body.appendChild(tag);
+      }
       request.send();
     }
     window.addEventListener('DOMContentLoaded', loadData);
