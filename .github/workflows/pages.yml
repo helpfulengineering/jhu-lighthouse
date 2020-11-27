@@ -9,6 +9,8 @@ on:
       - Lighthouse report
     types: 
       - completed
+  workflow_dispatch:
+
       
 jobs:
   update-pages:
