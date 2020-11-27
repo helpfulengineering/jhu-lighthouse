@@ -53,7 +53,7 @@ jobs:
             base="$(basename "$report")"
             time="${base%.json.gz}"
             cat "$report" | gunzip | jq "{\"$time\": {\"address\": .requestedUrl, \"seconds\": (.audits.interactive.numericValue / 1000) | floor}}"
-          done | jq -s add /tmp/artifacts/data.json
+          done | jq -s add > /tmp/artifacts/data.json
           
           jq -s '.[0] + .[1]' data.json /tmp/artifacts/data.json > /tmp/artifacts/mix.json
           mv /tmp/artifacts/mix.json data.json
