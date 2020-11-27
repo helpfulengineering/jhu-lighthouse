@@ -58,7 +58,7 @@ jobs:
       - name: Commit the report results
         uses: EndBug/add-and-commit@v4
         with:
-          add: "*.json"
+          add: "*.json reports"
           ref: reports
           message: Add reports
           author_name: "0x2b3bfa0"
