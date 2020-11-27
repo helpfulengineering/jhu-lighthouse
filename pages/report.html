@@ -7098,7 +7098,8 @@ if (typeof module !== 'undefined' && module.exports) {
       let request = new XMLHttpRequest();
       request.open("GET", "./reports/" + time + ".json.gz", true);
       request.responseType = "arraybuffer";
-      request.onload = function(context) {
+	    
+      request.addEventListener("load", function() {
         const data = pako.inflate(new Uint8Array(this.response), {to: "string"});
         window.__LIGHTHOUSE_JSON__ = JSON.parse(data);
 
@@ -7110,7 +7111,7 @@ if (typeof module !== 'undefined' && module.exports) {
 
         const features = new ReportUIFeatures(dom);
         features.initFeatures(window.__LIGHTHOUSE_JSON__);
-      }
+      }, false);
 	    
       request.addEventListener("error", function() {
         const tag = document.createElement('h2');
