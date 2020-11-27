@@ -13657,24 +13657,24 @@
   },
   {
     "url": "https://coronavirus.jhu.edu/map.html",
-    "localReport": "/tmp/artifacts/lighthouse-report-1606506213279.html",
+    "localReport": "/tmp/artifacts/lighthouse-report-1606506273963.html",
     "emulatedFormFactor": "desktop",
     "scores": {
       "accessibility": 90,
       "bestPractices": 92,
-      "performance": 37,
+      "performance": 36,
       "progressiveWebApp": 33,
       "seo": 100
     }
   },
   {
     "url": "https://coronavirus.jhu.edu/us-map",
-    "localReport": "/tmp/artifacts/lighthouse-report-1606506263119.html",
+    "localReport": "/tmp/artifacts/lighthouse-report-1606506330618.html",
     "emulatedFormFactor": "desktop",
     "scores": {
       "accessibility": 90,
       "bestPractices": 0,
-      "performance": 37,
+      "performance": 39,
       "progressiveWebApp": 33,
       "seo": 100
     }
