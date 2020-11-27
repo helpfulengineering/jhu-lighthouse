@@ -46,14 +46,19 @@ jobs:
           for report in /tmp/artifacts/*.html; do
             base="$(basename "$report")"; name="${base%.html}"; time="${name/lighthouse-report-}"
             perl -ne '/<script>window.__LIGHTHOUSE_JSON__ = (.*);<\/script>/ and print $1' "$report" |
-              gzip > "./reports/$time.json.gz"
+              gzip > "/tmp/artifacts/$time.json.gz"
           done
           
-          cd reports
-          find *.json.gz | while read report; do
+          find /tmp/artifacts/*.json.gz | while read report; do
+            report="$(basename "$report")"
             time="${report%.json.gz}"
             cat "$report" | gunzip | jq "{\"$time\": {\"address\": .requestedUrl, \"seconds\": (.audits.interactive.numericValue / 1000) | floor}}"
-          done | jq -s add > ../data.json
+          done | jq -s add /tmp/artifacts/data.json
+          
+          jq -s '.[0] + .[1]' data.json /tmp/artifacts/data.json > /tmp/artifacts/mix.json
+          mv /tmp/artifacts/mix.json data.json
+          
+          cp /tmp/artifacts/*.json.gz reports
 
       - name: Commit the report results
         uses: EndBug/add-and-commit@v4
