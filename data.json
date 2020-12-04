@@ -9890,5 +9890,13 @@
   "1607103212255": {
     "address": "https://coronavirus.jhu.edu/us-map",
     "seconds": 24
+  },
+  "1607103604476": {
+    "address": "https://coronavirus.jhu.edu/map.html",
+    "seconds": 24
+  },
+  "1607103646631": {
+    "address": "https://coronavirus.jhu.edu/us-map",
+    "seconds": 20
   }
 }
