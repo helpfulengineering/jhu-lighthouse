@@ -64222,5 +64222,29 @@
       "progressiveWebApp": 33,
       "seo": 100
     }
+  },
+  {
+    "url": "https://coronavirus.jhu.edu/map.html",
+    "localReport": "/tmp/artifacts/lighthouse-report-1608710526387.html",
+    "emulatedFormFactor": "desktop",
+    "scores": {
+      "accessibility": 0,
+      "bestPractices": 0,
+      "performance": 0,
+      "progressiveWebApp": 0,
+      "seo": 0
+    }
+  },
+  {
+    "url": "https://coronavirus.jhu.edu/us-map",
+    "localReport": "/tmp/artifacts/lighthouse-report-1608710593976.html",
+    "emulatedFormFactor": "desktop",
+    "scores": {
+      "accessibility": 90,
+      "bestPractices": 0,
+      "performance": 39,
+      "progressiveWebApp": 33,
+      "seo": 100
+    }
   }
 ]
